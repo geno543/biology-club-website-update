@@ -1,0 +1,46 @@
+{
+  "name": "biology-club-website",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.7.0",
+    "@react-three/drei": "^9.88.17",
+    "@react-three/fiber": "^8.15.12",
+    "@types/lodash": "^4.17.14",
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "autoprefixer": "^10.4.0",
+    "axios": "^1.6.0",
+    "framer-motion": "^10.16.0",
+    "lodash": "^4.17.21",
+    "next": "^14.0.0",
+    "next-auth": "^4.24.0",
+    "postcss": "^8.4.0",
+    "prisma": "^5.7.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hot-toast": "^2.5.1",
+    "react-icons": "^5.4.0",
+    "tailwindcss": "^3.3.0",
+    "three": "^0.166.0",
+    "typescript": "^5.0.0"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.0.0",
+    "@typescript-eslint/parser": "^6.0.0",
+    "eslint": "^8.0.0",
+    "eslint-config-next": "^14.0.0"
+  },
+  "description": "![Project Mockup](https://github.com/Muhammed4E/STEM-Egypt-Biology-Club/blob/main/images/mockup.png?raw=true)",
+  "main": "tailwind.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

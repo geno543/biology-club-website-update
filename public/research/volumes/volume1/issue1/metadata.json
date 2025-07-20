@@ -1,0 +1,57 @@
+{
+  "volumeNumber": 1,
+  "issueNumber": 1,
+  "publicationDate": "2023-07-01",
+  "title": "Volume 1, Issue 1",
+  "description": "A collection of groundbreaking research papers from STEM October students covering various fields including Bioinformatics, Neuroscience, Cancer Biology, Immunology, and Clinical Dermatology.",
+  "papers": [
+    {
+      "title": "Bioinformatics Analysis of Genetic Mutations Associated with Sleep Disorders and Stress in High School Students",
+      "authors": ["Mazen Abdelsttar"],
+      "field": "Bioinformatics- Mutation Genetics",
+      "mentor": "Kevin Atef",
+      "abstract": "This research involved a survey conducted among 150 participants from around the world to investigate the relationship between sleep disorders, stress, and genetic mutations in young adults, highlighting their impact on health and potential for further study.",
+      "pdfUrl": "/research/volumes/volume1/issue1/Bioinformatics Analysis of Genetic Mutations Associated with Sleep Disorders and Stress in High School Students.pdf"
+    },
+    {
+      "title": "From Mind to Machine: A Comprehensive Review of Brain-Computer Interfaces",
+      "authors": ["Omar Elsayed"],
+      "field": "Neuroscience",
+      "mentor": "Kevin Atef",
+      "abstract": "This paper explores Brain-Computer Interfaces (BCIs), covering their history, applications, signal acquisition methods, and challenges. It highlights BCIs' transformative impact on assistive technology, medicine, and virtual reality, and suggests solutions to improve usability and functionality.",
+      "pdfUrl": "/research/volumes/volume1/issue1/From_Mind_to_Machine_A_Comprehensive_Review_of_brain_computer_interfaces.pdf"
+    },
+    {
+      "title": "Contribution of carcinogenic compounds to lung cancer development, and the preventive role of some compounds from lung cancer",
+      "authors": ["Mohamed Ahmed"],
+      "field": "Cancer Biology",
+      "mentor": "Mina Ashraf",
+      "abstract": "This scholarly paper investigates lung cancer's link to carcinogens, especially in cigarettes, and reviews prevention methods, noting both effective and counterproductive agents.",
+      "pdfUrl": "/research/volumes/volume1/issue1/Contribution of carcinogenic compounds to lung cancer development, and the preventive role of some compounds from lung cancer.pdf"
+    },
+    {
+      "title": "How Insomnia Stimulates Inflammation in Rheumatoid Arthritis, and how the treatment by neutralization can affect the bones by the utilization of ACPA as a biomarker",
+      "authors": ["Mazen Rafae"],
+      "field": "Immunology and Molecular Biology",
+      "mentor": "Mohamed Hassan",
+      "abstract": "This research paper delves into the impact of Rheumatoid Arthritis (RA) on joints and bones, discussing factors like insomnia and stress. It suggests neutralization treatment using biomarkers like ACPA, potentially revolutionizing RA management through genetic engineering.",
+      "pdfUrl": "/research/volumes/volume1/issue1/How Insomnia Stimulates Inflammation in Rheumatoid Arthritis, and how the treatment by neutralization can affect the bones by the utilization of ACPA as a biomarker.pdf"
+    },
+    {
+      "title": "Detrimental Effects and Safety Considerations of Formaldehyde Treatment for Hyperhidrosis: A Comparative Review",
+      "authors": ["Ahmed Zayed"],
+      "field": "Clinical Dermatology",
+      "mentor": "Mohamed Hassan",
+      "abstract": "This review examines formaldehyde's effectiveness and health risks in treating hyperhidrosis, comparing it with other treatments. Despite reducing sweat, formaldehyde's safety concerns necessitate careful consideration and exploration of safer alternatives.",
+      "pdfUrl": "/research/volumes/volume1/issue1/Detrimental Effects and Safety Considerations of Formaldehyde Treatment for Hyperhidrosis A Comparative Review.pdf"
+    },
+    {
+      "title": "How do Errors caused by DNA Polymerase in replication affect human health and contribute to the development of Cancer",
+      "authors": ["Ibrahim Khalil"],
+      "field": "Genetics and Cancer Biology",
+      "mentor": "Mina Ashraf",
+      "abstract": "This literature review examines DNA polymerase errors during replication, their health impacts, links to cancer, and suggests lifestyle changes to reduce mutations, highlighting challenges and raising awareness.",
+      "pdfUrl": "/research/volumes/volume1/issue1/How do Errors caused by DNA Polymerase in replication affect human health and contribute to the development of Cancer.pdf"
+    }
+  ]
+}

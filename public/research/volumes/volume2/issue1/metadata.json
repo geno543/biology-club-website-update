@@ -1,0 +1,31 @@
+{
+  "volumeNumber": 2,
+  "issueNumber": 1,
+  "publicationDate": "2024-02-01",
+  "title": "Volume 2, Issue 1",
+  "description": "Research papers from STEM October Biology Club members",
+  "papers": [{
+    "title": "Genetic Markers and Drug Response in Egyptian Populations: A Pharmacogenomics Perspective",
+      "authors": ["Karim Tarek"],
+      "field": "Genetics - Pharmacogenomics",
+      "mentor": "Fathy Elziny",
+      "abstract": "The paper digs into the effects of genetic variability on drugs and medication metabolism and the ability of pharmacogenomics for individualized medicine. Digging into the methodology of genetic differences and their impact on individual drug response required specific examples such as HER-2, Thiopurine S methyltransferase, and Cytochrome P450 enzyme and also required an explanation of the molecular basis of that process which is the transcription and splicing processes. Despite the benefits of pharmacogenomics and individualized medicine, unfortunately, it's limited in Egypt. Studying the limitations required a survey to prove that the Egyptian medical staff lack knowledge about pharmacogenomics, a journey to a governmental public hospital to show the corruption of the staff and the lack of abilities and machines, a lot of searching about the Egyptian portfolio in genetic variability and how the Egyptian population differs from the whole world but unfortunately, nothing was found which proved that there is a lack of research about that topic in Egypt. Suggesting proper solutions of those problems was a mission of the paper as it suggested raising the salaries of the medical staff, enhancing the health sector, etc… to make the existence of pharmacogenomics stronger in Egypt..",
+      "pdfUrl": "/research/volumes/volume2/issue1/Genetic Markers and Drug Response in Egyptian Populations (final form) - Karim Tarek.pdf"
+  },
+  {
+    "title": "Immune Rejection in Transplantation: Identifying the Optimal Strategy for Long-Term Graft Survival ",
+      "authors": ["Hamza Mohamed"],
+      "field": "Anatomy",
+      "mentor": "Ziad Ali",
+      "abstract": "Although promising therapeutic potency in a wide range of diseases, stem cell transplantation still faces formidable immune rejection challenges. Strategies to overcome immune rejection will be reviewed, including pharmacological strategies involving the use of new immunosuppressants, genetic engineering for immune evasion and tolerance of stem cells, and biomaterials-based physical shielding from immune attack. A comparative analysis of all these methods outlines the advantages and disadvantages, pinpointing localized immune tolerance as the superior strategy in graft survival and reducing systemic side effects. It thus places strong demands on developing personalized approaches matched to the condition of the patient to ensure optimal outcomes for transplantation.",
+      "pdfUrl": "/research/volumes/volume2/issue1/Immune Rejection in Transplantation Identifying the Optimal.pdf"
+  },
+  {
+    "title": "Thrombosis and High Cellular Density Impact on Glioma Growth: A Revised Mathematical Model ",
+      "authors": ["Omar Sherif Emam"],
+      "field": "Oncology",
+      "mentor": "Mohamed Naser",
+      "abstract": "A glioma is a tumor that forms when glial cells grow out of control. All its treatments typically merely prolong the patient's life by a few weeks. Helping to solve this problem, several studies were made to predict glioma growth, including Sturrock et al. In 2015, Sturrock et al.  [1] utilized the several literatures that exhibited a relation between pre-diagnostic serum glucose levels and the hazard ratio of glioma occurrence. Thus, making 4 differential equations, describing pre-diagnostic glioma interactions, unlike other models. In this paper, Sturrock et al. work is revised, including the effect of microenvironmental factors, thrombosis and high cellular density, on glioma growth, showing how they lead to further complications. Providing further data of the effects of more microenvironments phenomena is also shown, helping in better diagnosis of glioma. To overcome the lack of data of pre-diagnostic glioma, further work is needed, advancing our understanding of tumor- microenvironment interactions.",
+      "pdfUrl": "/research/volumes/volume2/issue1/Thrombosis and High Cellular Density Impact on Glioma Growth A revised Mathematical Model.pdf"
+  }]
+}
