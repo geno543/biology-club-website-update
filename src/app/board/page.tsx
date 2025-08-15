@@ -82,6 +82,15 @@ const boardMembers = [
     }
   },
   {
+    name: 'Mohamed Moussa',
+    role: 'Advisory Team',
+    image: '/images/team/Moussa.jpg',
+    socials: {
+      linkedin: 'https://www.linkedin.com/in/mohammadmoussa/',
+      email: 'mohamedi.mashhour1@gmail.com'
+    }
+  },
+  {
     name: 'Mohamed Ramadan',
     role: 'Web Developer',
     image: '/images/team/Geno.jpg',
