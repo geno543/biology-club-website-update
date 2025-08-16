@@ -107,8 +107,7 @@ export default function Magazines() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.4, duration: 0.8 }}
             >
-              Explore our comprehensive biology magazine featuring cutting-edge research, 
-              student contributions, and insights from the world of biological sciences.
+              The Magazine Track offers a dynamic opportunity for students to transform their scientific interests into meaningful narrative experiences. For more than four weeks of active learning, students receive one-on-one editorial coaching to create meaningful and captivating pieces that educate and engage their readers. The course teaches students how to convey complex biological concepts clearly and innovatively, as well as contribute to a collaborative publication that reflects the voice of emerging scientific writers.
             </motion.p>
           </motion.div>
         </div>
