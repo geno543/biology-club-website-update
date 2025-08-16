@@ -84,7 +84,7 @@ const boardMembers = [
   {
     name: 'Mohamed Moussa',
     role: 'Advisory Team',
-    image: '/images/team/Moussa.jpg',
+    image: '/images/team/Mashhour.jpg',
     socials: {
       linkedin: 'https://www.linkedin.com/in/mohammadmoussa/',
       email: 'mohamedi.mashhour1@gmail.com'
