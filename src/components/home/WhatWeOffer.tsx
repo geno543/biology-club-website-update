@@ -105,7 +105,7 @@ export default function WhatWeOffer() {
     {
       icon: <FaBrain />,
       title: "Magazine",
-      description: "Coming soon....",
+      description: "A one-on-one coaching program to transform student's scientific interests into meaningful narrative experiences.",
       highlights: [],
       color: "from-amber-400 to-orange-500"
     }
