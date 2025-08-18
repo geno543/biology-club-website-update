@@ -21,7 +21,9 @@ import Link from "next/link";
 const winnersResults = [
   {
     teamName: "Earthcure",
-    members: ["Sultan", "Dana Daniyarbek", "Khadimova Madina", "Ayanat"]
+    country: "Egypt",
+    members: ["Sultan", "Dana Daniyarbek", "Khadimova Madina", "Ayanat"],
+    school: "STEM High school for Boys - 6th of October"
   },
   {
     teamName: "Spectrum Squad",
@@ -30,43 +32,6 @@ const winnersResults = [
   {
     teamName: "Empowers",
     members: ["Zhibek"]
-  },
-  {
-    teamName: "Biogenius",
-    members: ["Khaled Abdu Mohammed", "Youssef"]
-  },
-  {
-    teamName: "EGLOP",
-    members: ["Artyom"]
-  },
-  {
-    teamName: "BioNerds",
-    members: []
-  },
-  {
-    teamName: "Ismaila Bio squad",
-    members: [
-      "Moemen Ashraf Mohammed Mamdouh Ahmed Amer",
-      "Abdullah Mahmoud Nasraldin Rashwan",
-      "Ahmad Yahya Eswey Mohammed"
-    ]
-  },
-  {
-    teamName: "Evolulu",
-    members: ["Henry Tian Yuheng", "Wong Yit Terng Ethan", "Teo Wei Jeen"]
-  },
-  {
-    teamName: "Neuro Man",
-    members: [
-      "Mostafa Amen Shawkat",
-      "Hamza Mohamed Ibrahim elreahy",
-      "Abdelrahman hassan",
-      "Abdallah Roshdy Elsayed"
-    ]
-  },
-  {
-    teamName: "Biochemists",
-    members: ["Baishan Khaidar", "Adelya Kulman"]
   }
 ];
 
@@ -171,7 +136,7 @@ const firstPhaseResults = [
   ];
 
 
-  const secondPhaseResults = [
+  const winnersResults = [
       {
         teamName: "A Fungus Amongus",
         country: "🇪🇬",
