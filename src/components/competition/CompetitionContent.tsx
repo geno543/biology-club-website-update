@@ -35,7 +35,6 @@ const winnersResults = [
   }
 ];
 
-
 const firstPhaseResults = [
     {
       teamName: "Biophilia",
@@ -135,7 +134,6 @@ const firstPhaseResults = [
     }
   ];
 
-
   const winnersResults = [
       {
         teamName: "A Fungus Amongus",
@@ -156,6 +154,105 @@ const firstPhaseResults = [
         school: "STEM High school for Boys - 6th of October"
       }
     ];
+
+const firstPhaseResults = [
+    {
+      teamName: "Biophilia",
+      country: "Egypt",
+      members: ["Mazen Abdelsttar", "Mohamed Ahmed", "Mohamed Elsayeh"],
+      school: "STEM High school for Boys - 6th of October"
+    },
+    {
+      teamName: "Biogers",
+      country: "Egypt",
+      members: ["Ahmed Rabie", "Abdullah Nasr", "Mina Bishoy", "Abdelrahman Ashraf"],
+      school: "Alexandria STEM school"
+    },
+    {
+      teamName: "The golden dragon",
+      country: "Egypt",
+      members: ["Omar Ragab", "Mahmoud Alkhsosy", "Mahmoud Mohammed"],
+      school: "STEM High school for Boys - 6th of October"
+    },
+    {
+      teamName: "Bio Minds",
+      country: "Turkey",
+      members: ["Alisa Erişen", "Selen Köşker", "Melih Gümüş", "Diyar Boztaṣ"],
+      school: "Ankara Atatürk Anatolian High School"
+    },
+    {
+      teamName: "Bio Engineers",
+      country: "Egypt",
+      members: ["Hady El-barhimy"],
+      school: "El-Sadat STEM School"
+    },
+    {
+      teamName: "A Fungus Amongus",
+      country: "Egypt",
+      members: ["Belal Ahmed", "Mohamed Yasser", "Mazen Ahmed", "Abdullah Ahmed"],
+      school: "STEM High school for Boys - 6th of October"
+    },
+    {
+      teamName: "Tetrodotoxin Enjoyer",
+      country: "Peru",
+      members: ["Richard Simon"],
+      school: "I.E.P. PROLOG"
+    },
+    {
+      teamName: "Rai2sick",
+      country: "Philippines",
+      members: ["Railene Pagsanjan"],
+      school: "Science Technology Institute College Malolos School"
+    },
+    {
+      teamName: "Cell Bunch",
+      country: "Egypt",
+      members: ["Omar Aboalo", "Ibrahim Eltayeb", "Mo'men Emam", "Abdelrahman Ali"],
+      school: "STEM High school for Boys - 6th of October"
+    },
+    {
+      teamName: "PASS",
+      country: "Nepal",
+      members: ["Sushank", "Sundar Bhusal", "Ankit Adhikari", "Prashant Gaudel"],
+      school: "Shree Amarsingh Secondary School"
+    },
+    {
+      teamName: "BioGenius",
+      country: "Ethiopia",
+      members: ["Abrham Mulugeta"],
+      school: "Medhanealem School"
+    },
+    {
+      teamName: "The Hanoma",
+      country: "Egypt",
+      members: ["Hannah Ragaie", "May Mokhtar"],
+      school: "Maadi STEM High School for Girls"
+    },
+    {
+      teamName: "Felis catus",
+      country: "Peru",
+      members: ["Candy Mamani"],
+      school: "SAN JOSE School"
+    },
+    {
+      teamName: "The Mighty chondrias",
+      country: "Egypt",
+      members: ["Mazen Osama", "Ahmed Abdelrady", "Ali Muhammad", "Ahmed Sherif"],
+      school: "Sharkya STEM School"
+    },
+    {
+      teamName: "BiologicalM D",
+      country: "Egypt",
+      members: ["Karam Maher"],
+      school: "Narmer American College"
+    },
+    {
+      teamName: "BioTitans",
+      country: "Egypt",
+      members: ["Kholoud Elsayed", "Ali Mostafa", "Sama maged", "Ahmed Zayed"],
+      school: "STEM High school for Boys - 6th of October"
+    }
+  ];
     
   
 
