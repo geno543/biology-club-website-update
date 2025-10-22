@@ -2,14 +2,14 @@ import Link from 'next/link';
 
 export default function Footer() {
   return (
-    <footer style={{ position: 'absolute' }} className="bg-gray-900 text-white">
+   <footer style={{ position: 'absolute' }} className="bg-gray-900 text-white">
       <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           {/* About Section */}
           <div className="col-span-1 md:col-span-2">
             <h3 className="text-lg font-semibold mb-4">About STEM October Biology Club</h3>
             <p className="text-gray-300">
-              The club vision is to immerse high school students in a challenging environment that pushes their creativity and curiosity to discover research interests around them.
+            The club vision is to immerse high school students in a challenging environment that pushes their creativity and curiosity to discover research interests around them.
             </p>
           </div>
 
@@ -44,7 +44,7 @@ export default function Footer() {
               <li>Egypt</li>
               <li className="mt-4">
                 <a href="mailto:admission@octoberbiologyclub.com" className="hover:text-primary transition-colors">
-                  admission@octoberbiologyclub.com
+                   admission@octoberbiologyclub.com
                 </a>
               </li>
             </ul>
@@ -53,7 +53,7 @@ export default function Footer() {
 
         <div className="mt-8 pt-8 border-t border-gray-800">
           <div className="flex justify-between items-center">
-            <p className="text-gray-400">© {new Date().getFullYear()} STEM October Biology Club. All rights reserved.</p>
+            <p className="text-gray-400"> {new Date().getFullYear()} STEM October Biology Club. All rights reserved.</p>
             <div className="flex space-x-6">
               <a href="#" className="text-gray-400 hover:text-primary">
                 <span className="sr-only">Facebook</span>
